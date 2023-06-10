@@ -30,8 +30,18 @@ SOLID 원칙을 준수하도록, 작성했던 코드를 리팩토링 할 수 있
 ![](https://hackmd.io/_uploads/BkgKk_bD2.png)
 - 구체화된 클래스에 의존하기 보다는 추상 클래스나 인터페이스에 의존해야 한다는 뜻
 - DIP은 컴파일 타임에서만 일어난다. 런타임에서는 의존관계가 바뀌지 않는다. 프로그래머가 코드를 더 유연하게 작성하기 위해 DIP이 적용되는 것일 뿐이다.
+- YAGNI
+**y**ou **a**in't **g**onna **n**eed **i**t.
+"DIP이 필요 없을 것이다" 가 기본 가정이다.
+필요할 때 구현해주면 된다.
+(third-party library를 추가할 때에는 DIP을 적용하는 것이 좋다고 한다.)
 
 ## 총 정리
 - SRP 와 ISP 는 객체가 커지는 것을 막아준다. 객체가 단일 책임을 갖도록 하고 클라이언트마다 특화된 인터페이스를 구현하게 함으로써 한 기능의 변경이 다른 곳까지 미치는 영향을 최소화하고, 이는 기능 추가 및 변경에 용이하도록 만들어 준다.
 
 - LSP 와 DIP 는 OCP 를 서포트한다. OCP 는 자주 변화되는 부분을 추상화하고 다형성을 이용함으로써 기능 확장에는 용이하되 기존 코드의 변화에는 보수적이도록 만들어 준다. 여기서 '변화되는 부분을 추상화'할 수 있도록 도와주는 원칙이 DIP 이고, 다형성 구현을 도와주는 원칙이 LSP 인 것이다.
+
+## 명심할 것
+The SOLID principles are not rules. They are not laws. They are not perfect truths. - Uncle Bob(로버트 C. 마틴 - SOLID를 제시한 사람)
+(SOLID 원칙은 규칙이 아닙니다. 그것들은 법이 아닙니다. 그것들은 완전한 진리가 아닙니다.)
+[출처]https://sites.google.com/site/unclebobconsultingllc/getting-a-solid-start
