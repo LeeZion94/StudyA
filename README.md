@@ -30,13 +30,17 @@
 |  <Img src = "https://hackmd.io/_uploads/SkkQtd8E3.jpg"  width="200" height="200"> | <Img src = "https://hackmd.io/_uploads/SJDOddL42.png"  width="200" height="200"> |
 |[Github Profile](https://github.com/redmango1447) | [Github Profile](https://github.com/mint3382) |
 
+<br>
+
 ## 🚫 규칙
 ### 매주 토요일 10:00 ~
-❗️토요 스터디용으로 나오는 주제를 한 주 씩 느리게 진행합니다.
-❗️주어진 1주일 간 발표자는 발표를 준비합니다.
-❗️발표자가 아니라도 미리 주제에 따라 실험을 진행해 옵니다.
+❗️토요 스터디용으로 나오는 주제를 한 주 씩 느리게 진행합니다. <br>
+❗️주어진 1주일 간 발표자는 발표를 준비합니다. <br>
+❗️발표자가 아니라도 미리 주제에 따라 실험을 진행해 옵니다. <br>
 
 ❌ 지각한 사람은 다음 주 발표자가 됩니다! ❌
+
+<br>
 
 ## 🗓️ Week 링크
 |Week N | 주제 | 발표자 |
@@ -45,7 +49,7 @@
 | 2 | [Type](https://github.com/LeeZion94/StudyA/tree/master/Week2) | |
 | 3 | [MVC](https://github.com/LeeZion94/StudyA/tree/master/Week3) | |
 | 4 | [Singleton Pattern / View Life Cycle](https://github.com/LeeZion94/StudyA/tree/master/Week4) | |
-| 5 | [Singleton Pattern / View Life Cycle](https://github.com/LeeZion94/StudyA/tree/master/Week5) | 😈MINT😈 |
-| 6 | [UML(Unified Modeling Language)](https://github.com/LeeZion94/StudyA/tree/master/Week6) | 🚩Zion🚩 |
-| 7 | [SOLID 원칙](https://github.com/LeeZion94/StudyA/tree/master/Week7) | 🥭redmango🥭 |
-| 7 | [고차함수](https://github.com/LeeZion94/StudyA/tree/master/Week8) | 🐹yy-ss99🐹 |
+| 5 | [Singleton Pattern / View Life Cycle](https://github.com/LeeZion94/StudyA/tree/master/Week5) | [😈MINT😈](https://github.com/mint3382) |
+| 6 | [UML(Unified Modeling Language)](https://github.com/LeeZion94/StudyA/tree/master/Week6) | [🚩Zion🚩](https://github.com/LeeZion94) |
+| 7 | [SOLID 원칙](https://github.com/LeeZion94/StudyA/tree/master/Week7) | [🥭redmango🥭](https://github.com/redmango1447) |
+| 7 | [고차함수](https://github.com/LeeZion94/StudyA/tree/master/Week8) | [🐹yy-ss99🐹](https://github.com/yy-ss99) |
