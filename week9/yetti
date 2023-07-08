@@ -1,0 +1,125 @@
+import UIKit
+
+// Model 파일
+enum FoodType: String, CaseIterable {
+    case American = "양식"
+    case Chinese = "중식"
+    case Korean = "한식"
+    case Japanese = "일식"
+}
+
+struct Food {
+    let name: String
+    var price: Int
+}
+
+// MenuViewController 파일
+class MenuViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
+    @IBOutlet weak var myTableView: UITableView!
+    
+    var menu: [FoodType: [Food]] = [
+        .American: [
+            Food(name: "햄버거", price: 5000),
+            Food(name: "피자", price: 18000),
+            Food(name: "아메리카노", price: 41000)
+        ],
+        .Chinese: [
+            Food(name: "탕수육", price: 18000)
+        ],
+        .Korean: [
+            Food(name: "비빔밥", price: 8000),
+            Food(name: "돼지갈비", price: 20000)
+        ],
+        .Japanese: [
+            Food(name: "스시", price: 20000),
+            Food(name: "스윙스(돈까스)", price: 5000)
+        ]
+    ]
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        myTableView.dataSource = self
+        myTableView.delegate = self
+    
+        self.navigationItem.title = "메뉴판"
+    }
+    
+    func numberOfSections(in tableView: UITableView) -> Int {
+        return menu.count
+    }
+    
+    // 헤더뷰생성
+    func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
+        switch section {
+        case 0:
+            return FoodType.American.rawValue
+        case 1:
+            return FoodType.Chinese.rawValue
+        case 2:
+            return FoodType.Korean.rawValue
+        case 3:
+            return FoodType.Japanese.rawValue
+        default:
+            return nil
+        }
+    }
+    
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        switch section {
+        case 0:
+            return menu[.American]?.count ?? 0
+        case 1:
+            return menu[.Chinese]?.count ?? 0
+        case 2:
+            return menu[.Korean]?.count ?? 0
+        case 3:
+            return menu[.Japanese]?.count ?? 0
+        default:
+            return 0
+        }
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: "customCell", for: indexPath) as? MenuTableViewCell else {
+            return UITableViewCell()
+        }
+        cell.prepareForReuse()
+        
+        if indexPath.section == 0 {
+            if let americanFoods = menu[.American] {
+                cell.menuLabel.text = americanFoods[indexPath.row].name
+                cell.priceLabel.text = String(americanFoods[indexPath.row].price)
+            }
+        } else if indexPath.section == 1 {
+            if let chineseFoods = menu[.Chinese] {
+                cell.menuLabel.text = chineseFoods[indexPath.row].name
+                cell.priceLabel.text = String(chineseFoods[indexPath.row].price)
+            }
+        } else if indexPath.section == 2 {
+            if let koreanFoods = menu[.Korean] {
+                cell.menuLabel.text = koreanFoods[indexPath.row].name
+                cell.priceLabel.text = String(koreanFoods[indexPath.row].price)
+            }
+        } else if indexPath.section == 3 {
+            if let japaneseFoods = menu[.Japanese] {
+                cell.menuLabel.text = japaneseFoods[indexPath.row].name
+                cell.priceLabel.text = String(japaneseFoods[indexPath.row].price)
+            }
+        }
+        
+        
+        return cell
+    }
+}
+
+// MenuTableViewCell 파일
+final class MenuTableViewCell: UITableViewCell {
+    @IBOutlet weak var menuLabel: UILabel!
+    @IBOutlet weak var priceLabel: UILabel!
+    
+    override func prepareForReuse() {
+        super.prepareForReuse()
+        
+        priceLabel.textColor = .systemGray
+    }
+}
