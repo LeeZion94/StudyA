@@ -4,7 +4,7 @@
 🔥 [소개](#-소개) <br>
 👨‍💻 [팀원](#-팀원) <br>
 🚫 [규칙](#-규칙) <br>
-🗓️ [Week 링크](#-Week-링크) <br>
+🗓️ [Week 링크](https://github.com/LeeZion94/StudyA#%EF%B8%8F-week-%EB%A7%81%ED%81%AC) <br>
 
 
 </br>
@@ -52,4 +52,5 @@
 | 5 | [Singleton Pattern / View Life Cycle](https://github.com/LeeZion94/StudyA/tree/master/Week5) | [😈MINT😈](https://github.com/mint3382) |
 | 6 | [UML(Unified Modeling Language)](https://github.com/LeeZion94/StudyA/tree/master/Week6) | [🚩Zion🚩](https://github.com/LeeZion94) |
 | 7 | [SOLID 원칙](https://github.com/LeeZion94/StudyA/tree/master/Week7) | [🥭redmango🥭](https://github.com/redmango1447) |
-| 7 | [고차함수](https://github.com/LeeZion94/StudyA/tree/master/Week8) | [🐹yy-ss99🐹](https://github.com/yy-ss99) |
+| 8 | [고차함수](https://github.com/LeeZion94/StudyA/tree/master/Week8) | [🐹yy-ss99🐹](https://github.com/yy-ss99) |
+| 9 | [TableView](https://github.com/LeeZion94/StudyA/tree/master/week9) | [🦊Yetti🦊](https://github.com/iOS-Yetti) |
