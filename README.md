@@ -15,10 +15,10 @@
 </br>
 
 ## 👨‍💻 팀원
-| 🚩Zion🚩 |
-| :--------: |
-| <Img src =  "https://hackmd.io/_uploads/ryoFC_LV2.png" width="200" height="200"> | 
-|[Github Profile](https://github.com/LeeZion94) |
+| 🚩Zion🚩 | 🕷️Jusbug🕷️ |
+| :--------: | :--------: |
+| <Img src =  "https://hackmd.io/_uploads/ryoFC_LV2.png" width="200" height="200"> | <Img src = "https://hackmd.io/_uploads/HyhXF2cNh.jpg"  width="200"  height="200">|
+|[Github Profile](https://github.com/LeeZion94) | [Github Profile](https://github.com/JusBug) |
 
 | 🦊Yetti🦊 | 🐹yy-ss99🐹 |
 | :-------: | :--------: |
