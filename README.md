@@ -43,15 +43,15 @@
 <br>
 
 ## 🗓️ Week 링크
-|Week N | 주제 | 발표자 |
-|:--:|:--:| -- |
+|Week N | 주제 | 발표자 | 기타 사항 |
+|:--:|:--:| -- | -- |
 |  1  | [Optional / 예외처리](https://github.com/LeeZion94/StudyA/tree/master/Week1) | |
 |  2  | [Type](https://github.com/LeeZion94/StudyA/tree/master/Week2) | |
 |  3  | [MVC](https://github.com/LeeZion94/StudyA/tree/master/Week3) | |
 |  4  | [Singleton Pattern / View Life Cycle](https://github.com/LeeZion94/StudyA/tree/master/Week4) | |
-|  5  | [Singleton Pattern / View Life Cycle](https://github.com/LeeZion94/StudyA/tree/master/Week5) | [😈MINT😈](https://github.com/mint3382) |
-|  6  | [UML(Unified Modeling Language)](https://github.com/LeeZion94/StudyA/tree/master/Week6) | [🚩Zion🚩](https://github.com/LeeZion94) |
-|  7  | [SOLID 원칙](https://github.com/LeeZion94/StudyA/tree/master/Week7) | [🥭redmango🥭](https://github.com/redmango1447) |
-|  8  | [고차함수](https://github.com/LeeZion94/StudyA/tree/master/Week8) | [🐹yy-ss99🐹](https://github.com/yy-ss99) |
-|  9  | [TableView](https://github.com/LeeZion94/StudyA/tree/master/week9) | [🦊Yetti🦊](https://github.com/iOS-Yetti) |
-|  10 | [Concurrency](https://github.com/LeeZion94/StudyA/tree/master/week10) | [😈MINT😈](https://github.com/mint3382) |
+|  5  | [Singleton Pattern / View Life Cycle](https://github.com/LeeZion94/StudyA/tree/master/Week5) | [😈MINT😈](https://github.com/mint3382) | |
+|  6  | [UML(Unified Modeling Language)](https://github.com/LeeZion94/StudyA/tree/master/Week6) | [🚩Zion🚩](https://github.com/LeeZion94) | |
+|  7  | [SOLID 원칙](https://github.com/LeeZion94/StudyA/tree/master/Week7) | [🥭redmango🥭](https://github.com/redmango1447) | |
+|  8  | [고차함수](https://github.com/LeeZion94/StudyA/tree/master/Week8) | [🐹yy-ss99🐹](https://github.com/yy-ss99) | |
+|  9  | [TableView](https://github.com/LeeZion94/StudyA/tree/master/week9) | [🦊Yetti🦊](https://github.com/iOS-Yetti) | |
+|  10 | [Concurrency](https://github.com/LeeZion94/StudyA/tree/master/week10) | [😈MINT😈](https://github.com/mint3382) | 🕷️Jusbug🕷️ 스터디 합류 |
