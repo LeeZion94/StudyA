@@ -17,7 +17,7 @@
 ## 👨‍💻 팀원
 | 🚩Zion🚩 | 🕷️Jusbug🕷️ |
 | :--------: | :--------: |
-| <Img src =  "https://hackmd.io/_uploads/ryoFC_LV2.png" width="200" height="200"> | <Img src = "https://hackmd.io/_uploads/HyhXF2cNh.jpg"  width="200"  height="200">|
+| <Img src =  "https://hackmd.io/_uploads/ryoFC_LV2.png" width="200" height="200"> | <Img src = "https://hackmd.io/_uploads/Sy9vLlzin.jpg"  width="200"  height="200">|
 |[Github Profile](https://github.com/LeeZion94) | [Github Profile](https://github.com/JusBug) |
 
 | 🦊Yetti🦊 | 🐹yy-ss99🐹 |
@@ -57,4 +57,4 @@
 |  10 | [Concurrency](https://github.com/LeeZion94/StudyA/tree/master/week10) | [😈MINT😈](https://github.com/mint3382) | 🕷️Jusbug🕷️ 스터디 합류 |
 | 11_1 | [Protocol Oriented Programming](https://github.com/LeeZion94/StudyA/blob/master/week11/README.md#readmango) | [🥭redmango🥭](https://github.com/redmango1447) | 캠핑사이트 자료 발표 |
 | 11_2 | [Protocol Oriented Programming]() | [🚩Zion🚩](https://github.com/LeeZion94) | 야곰의 POP 구현 발표 |
-
+| 12 | [Responder chain]() | [🕷️Jusbug🕷️](https://github.com/JusBug) | hitTest 발표 및 테스트 |
