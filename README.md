@@ -55,9 +55,9 @@
 |  8  | [고차함수](https://github.com/LeeZion94/StudyA/tree/master/Week8) | [🐹yy-ss99🐹](https://github.com/yy-ss99) | |
 |  9  | [TableView](https://github.com/LeeZion94/StudyA/tree/master/week9) | [🦊Yetti🦊](https://github.com/iOS-Yetti) | |
 |  10 | [Concurrency](https://github.com/LeeZion94/StudyA/tree/master/week10) | [😈MINT😈](https://github.com/mint3382) | 🕷️Jusbug🕷️ 스터디 합류 |
-| 11_1 | [Protocol Oriented Programming](https://github.com/LeeZion94/StudyA/blob/master/week11/README_redmango.md) | [🥭redmango🥭](https://github.com/redmango1447) | 캠핑사이트 자료 발표 |
-| 11_2 | [Protocol Oriented Programming](https://github.com/LeeZion94/StudyA/blob/master/week11/README_Zion.md) | [🚩Zion🚩](https://github.com/LeeZion94) | 야곰의 POP 구현 발표 |
+| 11_1 | [Protocol Oriented Programming](https://github.com/LeeZion94/StudyA/tree/master/week11/POP_redmango) | [🥭redmango🥭](https://github.com/redmango1447) | 캠핑사이트 자료 발표 |
+| 11_2 | [Protocol Oriented Programming](https://github.com/LeeZion94/StudyA/tree/master/week11/POP_Zion) | [🚩Zion🚩](https://github.com/LeeZion94) | 야곰의 POP 구현 발표 |
 | 12 | [Responder chain](https://github.com/LeeZion94/StudyA/tree/master/week12) | [🕷️Jusbug🕷️](https://github.com/JusBug) | hitTest 발표 및 테스트 |
 | 13_1 | [CollectionView](https://github.com/LeeZion94/StudyA/blob/master/week13/Yetti/README.md) | [🦊Yetti🦊](https://github.com/iOS-Yetti) | |
-| 13_2 | [URLSession]() | [🐹yy-ss99🐹](https://github.com/yy-ss99) | 14주차에 같이 발표 |
+| 13_2 | [URLSession](https://github.com/LeeZion94/StudyA/tree/master/week13/URLSession_yyss99) | [🐹yy-ss99🐹](https://github.com/yy-ss99) | 14주차에 같이 발표 |
 | 14 | [Cache](https://github.com/LeeZion94/StudyA/tree/master/week14) | [😈MINT😈](https://github.com/mint3382) | |
