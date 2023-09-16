@@ -166,38 +166,36 @@ case errSecSuccess:
 
 # CoreData
 
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.001.jpeg"/>
+![‎CoreData_redmango ‎001](https://github.com/redmango1447/apple1446/assets/94215762/69a5d8e9-06eb-4b28-afc0-44707a493223)
+---
+![‎CoreData_redmango ‎002](https://github.com/redmango1447/apple1446/assets/94215762/b4176555-41f0-4fd6-991a-d07541df3090)
 
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.002.jpeg"/>
-
----
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.003.jpeg"/>
+![‎CoreData_redmango ‎003](https://github.com/redmango1447/apple1446/assets/94215762/3e8fde49-5f55-4a02-a335-dbc64a1e2bff)
 
 - 객체 관리 그래프란: 객체간의 관계를 그래프로 나타낸 것
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.004.jpeg"/>
+![‎CoreData_redmango ‎004](https://github.com/redmango1447/apple1446/assets/94215762/b64890bd-a5d3-4f37-b79f-7f77d4febdd5)
 
 - DB언어를 배울 필요가 없다는 점에서 매우 편리
 ---
 
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.005.jpeg"/>
+![‎CoreData_redmango ‎005](https://github.com/redmango1447/apple1446/assets/94215762/35c50ce6-413a-420c-81b0-dbc086b63b35)
 
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.006.jpeg"/>
+![‎CoreData_redmango ‎006](https://github.com/redmango1447/apple1446/assets/94215762/2f182f3b-8774-4368-a8d2-fc1f99dc02ec)
 
 - 스레드 세이프를 고려하지 않았다는걸 주의
 - mainQueue는 아무래도 UI때문인것으로 추측(데이터 처리때문에 UI먹통 될수도..)
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.007.jpeg"/>
+![‎CoreData_redmango ‎007](https://github.com/redmango1447/apple1446/assets/94215762/32e73c8c-aff2-46e3-a7da-82853119bc55)
 
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.008.jpeg"/>
+![‎CoreData_redmango ‎008](https://github.com/redmango1447/apple1446/assets/94215762/ca5abcda-a4ea-4048-bb98-2c5f393ad370)
 
 - 마이그레이션을 하지 않을 경우 데이터가 날아가는 경우가 발생 할 수 있다.
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.009.jpeg"/>
+![‎CoreData_redmango ‎009](https://github.com/redmango1447/apple1446/assets/94215762/95d1dd1c-89c2-4160-9594-0a7e70369ffc)
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.010.jpeg"/>
-
+![‎CoreData_redmango ‎010](https://github.com/redmango1447/apple1446/assets/94215762/7e1a1797-4e56-4deb-ac42-27da91b71416)
 
