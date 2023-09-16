@@ -166,38 +166,38 @@ case errSecSuccess:
 
 # CoreData
 
-![](https://hackmd.io/_uploads/HJ4hLOzyp.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.001.jpeg">
 
 ---
-![](https://hackmd.io/_uploads/SkN28OMkT.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.002.jpeg">
 
 ---
-![](https://hackmd.io/_uploads/HJlV2LuzJT.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.003.jpeg">
 
 - 객체 관리 그래프란: 객체간의 관계를 그래프로 나타낸 것
 ---
-![](https://hackmd.io/_uploads/SylNhLdGJa.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.004.jpeg">
 
 - DB언어를 배울 필요가 없다는 점에서 매우 편리
 ---
 
-![](https://hackmd.io/_uploads/r1lEnUdfyp.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.005.jpeg">
 
 ---
-![](https://hackmd.io/_uploads/HybV38dzya.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.006.jpeg">
 
 - 스레드 세이프를 고려하지 않았다는걸 주의
 - mainQueue는 아무래도 UI때문인것으로 추측(데이터 처리때문에 UI먹통 될수도..)
 ---
-![](https://hackmd.io/_uploads/HJNhL_zJp.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.007.jpeg">
 
 ---
-![](https://hackmd.io/_uploads/HJWV38dfJp.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.008.jpeg">
 
 - 마이그레이션을 하지 않을 경우 데이터가 날아가는 경우가 발생 할 수 있다.
 ---
-![](https://hackmd.io/_uploads/ryEnLuGka.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.009.jpeg">
 ---
-![](https://hackmd.io/_uploads/ByeEnI_Gkp.jpg)
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.010.jpeg">
 
 
