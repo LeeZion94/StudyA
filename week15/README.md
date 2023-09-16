@@ -166,38 +166,38 @@ case errSecSuccess:
 
 # CoreData
 
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.001.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.001.jpeg"/>
 
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.002.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.002.jpeg"/>
 
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.003.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.003.jpeg"/>
 
 - 객체 관리 그래프란: 객체간의 관계를 그래프로 나타낸 것
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.004.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.004.jpeg"/>
 
 - DB언어를 배울 필요가 없다는 점에서 매우 편리
 ---
 
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.005.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.005.jpeg"/>
 
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.006.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.006.jpeg"/>
 
 - 스레드 세이프를 고려하지 않았다는걸 주의
 - mainQueue는 아무래도 UI때문인것으로 추측(데이터 처리때문에 UI먹통 될수도..)
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.007.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.007.jpeg"/>
 
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.008.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.008.jpeg"/>
 
 - 마이그레이션을 하지 않을 경우 데이터가 날아가는 경우가 발생 할 수 있다.
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.009.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.009.jpeg"/>
 ---
-<img src=".redmango_CoreData/imagefiles/CoreData_redmango.010.jpeg">
+<img src=".redmango_CoreData/imagefiles/CoreData_redmango.010.jpeg"/>
 
 
