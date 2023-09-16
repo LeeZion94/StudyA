@@ -161,3 +161,43 @@ case errSecSuccess:
 - item을 올바르게 Read료 했다면 부여했던 옵션 값을 통해 data와 attr 속성 값들을 Dictionary로 전달받아오게 됩니다.
 - kSecReturnAttributes 옵션 값을 true로 부여했으므로 Dictionary로 형변환 작업이 필요합니다. false로 부여했다면 attr 속성 값이 같이 read 되지 않기 때문에 Dictionary로 형변환을 할 필요가 없이 Data만 받게 됩니다.
 - Data에 해당하는 Key값을 사용하여 data를 받고 이를 다시 encoding한다면 저장되어 있었던 password 값을 올바르게 읽어올 수 있습니다.
+
+---
+
+# CoreData
+
+![](https://hackmd.io/_uploads/HJ4hLOzyp.jpg)
+
+---
+![](https://hackmd.io/_uploads/SkN28OMkT.jpg)
+
+---
+![](https://hackmd.io/_uploads/HJlV2LuzJT.jpg)
+
+- 객체 관리 그래프란: 객체간의 관계를 그래프로 나타낸 것
+---
+![](https://hackmd.io/_uploads/SylNhLdGJa.jpg)
+
+- DB언어를 배울 필요가 없다는 점에서 매우 편리
+---
+
+![](https://hackmd.io/_uploads/r1lEnUdfyp.jpg)
+
+---
+![](https://hackmd.io/_uploads/HybV38dzya.jpg)
+
+- 스레드 세이프를 고려하지 않았다는걸 주의
+- mainQueue는 아무래도 UI때문인것으로 추측(데이터 처리때문에 UI먹통 될수도..)
+---
+![](https://hackmd.io/_uploads/HJNhL_zJp.jpg)
+
+---
+![](https://hackmd.io/_uploads/HJWV38dfJp.jpg)
+
+- 마이그레이션을 하지 않을 경우 데이터가 날아가는 경우가 발생 할 수 있다.
+---
+![](https://hackmd.io/_uploads/ryEnLuGka.jpg)
+---
+![](https://hackmd.io/_uploads/ByeEnI_Gkp.jpg)
+
+
